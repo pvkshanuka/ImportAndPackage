@@ -1,13 +1,13 @@
-package student;
+package C;
 
-import cource.*;
+import B.Cource;
 
 public class Student{
 
 public void print(){
 
-Course course = new Cource();
-cource.print();
+Cource course = new Cource();
+course.print();
 
 }
 

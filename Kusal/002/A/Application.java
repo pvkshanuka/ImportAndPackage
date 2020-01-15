@@ -1,10 +1,13 @@
+package A;
+
 import C.Student;
 
 public class Application{
 
-public static void main(String arg[]){
+public static void main(String[] arg) {
 
-Student.print();
+Student student=new Student();
+student.print();    
 
 }
 

@@ -1,4 +1,4 @@
-package cource;
+package B;
 
 public class Cource{
 
